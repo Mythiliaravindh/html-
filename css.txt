@@ -1,1 +1,2 @@
 css is a cascading style sheet
+CSS use for design the page
